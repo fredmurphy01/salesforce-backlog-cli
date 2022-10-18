@@ -6,6 +6,7 @@ import (
 	"github.com/rabocse/salesforce-backlog-cli/sftool"
 )
 
+// comment test.....
 /*
 
 The current execution is successful. First the user must set the expected environment variables (email, password, salesforceInstance, clientID, client Secret, SecurityKey) on the local terminal. For example:
